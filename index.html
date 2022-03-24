@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale = 1.0" />
+    <title>Cours HTML</title>
+    <!-- Icone de l'onglet -->
+    <link rel="shortcut icon" href="logo-html.png" />
+  </head>
+
+  <body>
+    <header>
+      <h1>Titre = H1</h1>
+      <p>
+        Texte basique <em>Voici un texte en italique.</em>
+        <strong>Et un texte en gras </strong>
+        <span>L'élement en span ne revient pas à ma ligne</span>
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate
+        similique doloribus beatae nobis temporibus error vero facere, libero
+        ad, architecto culpa, repudiandae quibusdam alias facilis dicta dolorem
+        dolores saepe sit.
+      </p>
+    </header>
+    <section>
+      <div>
+        <h2>Photos - Titre</h2>
+        <img src="phoyo_cygne.jpg" height="200" alt="image-paysage" />
+      </div>
+      <div>
+        <h3>Listes - Titre - H3</h3>
+        <ul>
+          <li>UL = unordered list</li>
+          <li>UL = unordered list</li>
+          <li>UL = unordered list</li>
+        </ul>
+
+        <ol>
+          <li>OL = unordered list</li>
+          <li>OL = unordered list</li>
+          <li>OL = unordered list</li>
+        </ol>
+      </div>
+      <div>
+        <h4>Tableaux - Titre H4</h4>
+        <table border="1" width="50%">
+          <!-- Légende -->
+          <caption>
+            Populations d'europe
+          </caption>
+          <!-- En-tete -->
+          <thead>
+            <tr>
+              <th>Pays</th>
+              <th>Population</th>
+            </tr>
+          </thead>
+          <!-- Corps du tableau -->
+          <tbody>
+            <tr>
+              <td>France</td>
+              <td>66M</td>
+            </tr>
+            <tr>
+              <td>Allemagne</td>
+              <td>82M</td>
+            </tr>
+            <tr>
+              <td>Espagne</td>
+              <td>47M</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <h5><span>&#9733;</span> Liens - Titre H5</h5>
+        <a href="https://htmlcheatsheet.com/" target="_blank"
+          >HTML Cheat Sheet</a
+        >
+        <br />
+        <a
+          href="https://www.toptal.com/designers/htmlarrows/symbols/"
+          target="_blank"
+        >
+          Icones en HTML</a
+        >
+      </div>
+      <div>
+        <h6><span>&#9733;</span> Vidéos - Titre H6</h6>
+        <video src="Video_soleil.mp4" height="150" autoplay loop muted></video>
+      </div>
+    </section>
+    <br>
+    <section>
+        <h2>Formulaire</h2>
+        <form action="/action.php" method="post">
+            <label for="name">Nom </label><input id ="name" type="text" placeholder="Entrez votre nom"><br>
+            <label for="age">Age</label>
+            <input id="age" type="number" min="0" max="99"
+            step = "1" value="18"><br>
+
+            <!-- Input select -->
+            <label for="gender">Genre</label>
+            <select id="gender">
+                <option value="homme">Homme</option>
+                <option value="femme">Femme</option>
+                <option value="autre">Autre</option>
+            
+            </select><br>
+
+            <!-- Input radio -->
+
+            <div>
+                <input type="radio" name = "type" checked id="human">
+                <label for="human">Humain</label>
+
+                <input type="radio" name = "type" id="dog">
+                <label for="dog">Chien</label>
+                
+                <input type="radio" name = "type" id="cat">
+                <label for="cat">Chat</label>
+            </div>
+
+            <textarea cols="30" rows="10" placeholder="Entrez votre demande"></textarea><br>
+
+            <!-- Input Checknox -->
+
+            <label><input type="checkbox"/>Accepter les CGV</label><br>
+            <input type="submit" value="Valider">
+        </form>
+    </section>
+    <br>
+    <!-- Mail et envoi de fichier -->
+    <footer>
+        <a href="mailto:adrienpauron@gmail.com">Ecrivez-moi !</a>
+        <br>
+
+        <a href="notice.txt" download="nom-du-fichier">Télécharger la notice</a>
+
+    </footer>
+  </body>
+</html>
