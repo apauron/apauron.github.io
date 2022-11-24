@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S in Computer Science, Sorbonne Université 2022
+* M.S. in Executive Engineering/ Data Science/ Biotechnologies,  Mines Paris 2022
+* Preparatory classes in Maths, Physics and Computer Science, Lycée du Parc 2016-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022 - Now : Research Engineer
+  * Laboratory of Cognitive and Computational Neurosciences - ENS ULM, Paris
+  * Duties included: Behavioral data mining, Experimental setting
+  * Supervisor: Prof. Coralie Chevallier
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021 : Data Scientist Intern - Ariana Pharma, Paris
+  * Prediction of the outcome for patients admitted to an ICU, based on clinical biomarkers.
+  * Pipeline Development using Knime.
+  * Development of a webapp using RShiny.
+  * Association Rules Mining using Explainable AI KEM.
+
+*  Summer 2020: Research Intern
+  * Cognitive Science Laboratory of Université Côte d'Azur, Nice
+  * Duties included: Litterature writing of a Paper, under revision in Attention, Perception and PsychoPhysics. 
+  * Supervisor: Dr. Fabien Mathy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Machine Learning with R and Python
+  * Supervised and Unsupervised Learning with R and Python.
+  * Deep learning with TensorFlow
+  
+* Research skills
+  * Reading scientific reports
+  * Writing scientific reports
   * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
