@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Adrien Pauron"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Adrien Pauron"
+description              : &description "I'm a Graduate Student from Mines Paristech and Sorbonne Université in Computer Sciences. I want to use AI and behavioral
+sciences to make the world a better place."
+url                      : https://apauron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "apauron/apauron.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : adrien_pauron
 facebook:
   username               :
   app_id                 :
@@ -80,10 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Adrien Pauron"
+  avatar           : "profile_pic.png"
+  bio              : "I am a Research Assistant at Laboratoire de Neurosciences Cognitives et Computationelles in ENS Ulm. I'm mainly interested in the application
+  of data science and behavioral sciences to public policies and social issues."
+  location         : "Paris"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
