@@ -42,7 +42,6 @@ Skills
 * Research skills
   * Reading scientific reports
   * Writing scientific reports
-  * Sub-skill 2.3
 
 Publications
 ======
