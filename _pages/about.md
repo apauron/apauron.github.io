@@ -7,4 +7,4 @@ title: "About me"
    - /about.html
 
 
-I'm a graduate student from Mines Paris - PSL and Sorbonne Université, interested in behavioral sciences and AI. I'm looking for a PhD in related areas, so feel free to contact me.
+I'm a graduate student from Mines Paris - PSL and Sorbonne Université, interested in Cognitive Sciences, AI and biology. I am keenly interested in using AI to tackle societal issues in the environment or health. 
