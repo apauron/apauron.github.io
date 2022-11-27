@@ -3,8 +3,9 @@ layout: archive
 title: "About"
 permalink: /about/
 author_profile: true
-redirect-from :
-  - main
+redirect_from: 
+  - /about/
+  - /about.html
 
 ---
 
